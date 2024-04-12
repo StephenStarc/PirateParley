@@ -1,3 +1,4 @@
 {
-    "mongoURI":"mongodb+srv://stephenStarc:yQP7Pv4MAmf%24ax%40@starc1.78gmq4x.mongodb.net/PirateParleyDB?retryWrites=true&w=majority&appName=Starc1"
+    "mongoURI":"mongodb+srv://stephenStarc:yQP7Pv4MAmf%24ax%40@starc1.78gmq4x.mongodb.net/PirateParleyDB?retryWrites=true&w=majority&appName=Starc1",
+"jwtSecret":"mysecrettoken"
 }
